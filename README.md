@@ -1,0 +1,2 @@
+# partnership
+partnership.dialogware.com
